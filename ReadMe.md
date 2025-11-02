@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Olá, eu sou @gabrielpcoutinho;<br>- 👀 Estou interessado em trabalhar com desenvolvimento web;<br>- 🌱 Atualmente estou aprendendo Python, Flask, Django, HTML, CSS e JS;.<br>- 📫 Você pode me encontrar através do meu instagram ou então no meu LinkedIn;<br>- 😄 Vamos nos conectar e trocar experiências!<br><br>
+- 👋 Olá, eu sou @gabrielpcoutinho;<br>- 👀 Estou interessado em trabalhar com desenvolvimento web;<br>- 🌱 Atualmente estou aprendendo Javascript, Typescript, HTML e CSS;.<br>- 📫 Você pode me encontrar através do meu instagram ou então no meu LinkedIn;<br>- 😄 Vamos nos conectar e trocar experiências!<br><br>
 
 
 ## 🌐 Socials:
